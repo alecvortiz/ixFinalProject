@@ -30,7 +30,9 @@
     bottom: 0;
     overflow: auto;
     margin: 0 15px 0 0;
-    
+    height: 600px;
+    width: 100%; 
+    max-width: none;
 }
 
 #errors {

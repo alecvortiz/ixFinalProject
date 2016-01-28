@@ -25,7 +25,11 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'devise'
 
+# map gems
+gem 'underscore-rails'
 gem 'gmaps4rails'
+gem 'geocoder'
+
 gem 'rest-client'
 gem 'jquery-turbolinks'
 
@@ -44,6 +48,8 @@ gem 'groupdate'
 
 # twitter bootstrap
 gem 'twitter-bootstrap-rails'
+
+gem 'typeahead-addresspicker-rails'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
