@@ -1,0 +1,2 @@
+module DietCarbonsHelper
+end
